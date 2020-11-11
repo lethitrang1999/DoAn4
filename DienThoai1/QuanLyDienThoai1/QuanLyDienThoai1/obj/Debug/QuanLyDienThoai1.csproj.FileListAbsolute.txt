@@ -1,0 +1,6 @@
+E:\DienThoai1\QuanLyDienThoai1\QuanLyDienThoai1\bin\Debug\QuanLyDienThoai1.exe.config
+E:\DienThoai1\QuanLyDienThoai1\QuanLyDienThoai1\bin\Debug\QuanLyDienThoai1.exe
+E:\DienThoai1\QuanLyDienThoai1\QuanLyDienThoai1\bin\Debug\QuanLyDienThoai1.pdb
+E:\DienThoai1\QuanLyDienThoai1\QuanLyDienThoai1\obj\Debug\QuanLyDienThoai1.csprojResolveAssemblyReference.cache
+E:\DienThoai1\QuanLyDienThoai1\QuanLyDienThoai1\obj\Debug\QuanLyDienThoai1.exe
+E:\DienThoai1\QuanLyDienThoai1\QuanLyDienThoai1\obj\Debug\QuanLyDienThoai1.pdb

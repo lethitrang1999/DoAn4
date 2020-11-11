@@ -1,0 +1,12 @@
+12334/iphone/5/black/20
+1//1//1
+1234/samsung/6/white/5
+1234/ipad/4/red/4
+4735/iphone/5/red/5
+342/iphone 1/5/yellow/5
+4238/iphone/5/red/4/50
+435/iphone/5/red/5/50.32
+3523/iphone/4/red/4/5
+8432/ipad/4/red/4/50
+474132/ipad/5/red/5/45
+1734/iphone/4/black/50/0
